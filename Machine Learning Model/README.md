@@ -1,7 +1,7 @@
 # CO2 and Greenhouse Gas Emissions
 ## Project Overview:
 Human emissions of carbon dioxide and other greenhouse gasses – are a primary driver of climate change, and one of the world’s most pressing challenges at present. The link between global temperatures and greenhouse gas concentrations – especially CO2 – has been true throughout Earth’s history.
-How can we decarbonize our energy systems?
+#### How can we decarbonize our energy systems?
 Shift towards low-carbon electricity (reduce carbon intensity – carbon per unit energy)
 1. Renewables
 2. Nuclear energy
