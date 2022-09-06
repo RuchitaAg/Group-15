@@ -3,16 +3,17 @@
 Human emissions of carbon dioxide and other greenhouse gasses – are a primary driver of climate change, and one of the world’s most pressing challenges at present. The link between global temperatures and greenhouse gas concentrations – especially CO2 – has been true throughout Earth’s history.
 How can we decarbonize our energy systems?
 Shift towards low-carbon electricity (reduce carbon intensity – carbon per unit energy)
-•	Renewables
-•	Nuclear energy
-•	Shift from coal to gas (which emits less CO2 per unit energy) as an interim step
-•	Shift sectors such as transport, towards electricity.
+1. Renewables
+2. Nuclear energy
+3. Shift from coal to gas (which emits less CO2 per unit energy) as an interim step
+4. Shift sectors such as transport, towards electricity.
 
 Some energy sectors are harder to decarbonize – for example, transport. We therefore need to shift these forms towards electricity where we have viable low-carbon technologies.
 Overall, the top 3 sectors that emit highest amount of CO2 are:
-1.	Electricity and heat
-2.	Transport
-3.	Manufacturing and construction
+
+1. Electricity and heat
+2. Transport
+3. Manufacturing and construction
 
 ## Project Focus:
 In this project, our main focus will be on the transport sector, where we plan to create a machine learning model to predict how much CO2 emissions are saved by introducing more electric vehicles into the transport market.
@@ -26,7 +27,7 @@ Our goal is to create a generic prediction model on the basis of CO2 emissions, 
 
 ## Project Details
 ### Metrics
-1.	Analyses on key features:
+#### Analyses on key features:
 1.	Greenhouse gas emissions by sector
 2.	CO2 specific emissions
 3.	Energy production sources
